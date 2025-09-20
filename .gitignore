@@ -59,3 +59,4 @@ logs/
 # Temporary files
 *.tmp
 *.temp
+project/set_key.ipynb
